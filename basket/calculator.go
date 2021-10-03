@@ -25,5 +25,5 @@ func(c Calculate) Divide(x,y float64) float64{
 	return x/y
 }
 func main(){
-
+ d
 }
